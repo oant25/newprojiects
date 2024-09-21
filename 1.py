@@ -6,4 +6,5 @@ print(a*b)
 #3
 #4
 #5
-
+print("ura pobeda")
+print("goodbye")
